@@ -13,8 +13,7 @@ Welcome to the **Madhav Ecommerce Sales Dashboard** project! The goal of this pr
 The **Madhav Ecommerce Sales Dashboard** project focuses on creating a dynamic and interactive tool for analyzing **online sales** data of **Madhav Store** across **India**. Utilizing **Power BI**, this dashboard provides real-time insights into **sales trends**, **top-selling products**, **regional performance**, and **profit margins**. It enables the store owner to track **business performance**, identify opportunities for growth, and make **data-driven decisions** to optimize operations.
 
 ## **Screenshot:**
-
-
+![Madhav Ecommerce Sale Power BI Dashboard png](https://github.com/user-attachments/assets/89294532-6eca-4766-915a-919e6cb1eafe)
 
 ## **Questions (KPIs):**
 
